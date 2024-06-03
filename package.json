@@ -1,5 +1,5 @@
 {
-  "name": "@example/basics",
+  "name": "xylit.dev",
   "type": "module",
   "version": "0.0.1",
   "private": true,
@@ -11,6 +11,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^1.7.2"
+    "@astrojs/starlight": "^0.23.2",
+    "astro": "^4.8.6",
+    "sharp": "^0.32.5"
   }
 }
