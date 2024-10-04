@@ -19,10 +19,10 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Guides',
+          label: 'Getting Started',
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: 'Example Guide', link: '/guides/example/' },
+            { label: 'Installation And Setup', link: '/getting-started/installation-and-setup' },
           ],
         },
         {
